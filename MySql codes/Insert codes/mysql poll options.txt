@@ -1,0 +1,5 @@
+INSERT INTO poll_options (`id`, `poll_id`, `name`, `created`, `modified`, `status`) VALUES
+(1, 1, 'Miguel de Cervantes', '2019-06-14 11:29:31', '2019-06-14 11:29:31', '1'),
+(2, 1, 'Charles Dickens', '2019-06-14 11:29:31', '2019-06-14 11:29:31', '1'),
+(3, 1, 'J.R.R. Tolkien', '2019-06-14 11:29:31', '2019-06-14 11:29:31', '1'),
+(4, 1, 'Antoine de Saint-Exuper', '2019-06-14 08:20:25', '2019-06-14 08:20:25', '1');

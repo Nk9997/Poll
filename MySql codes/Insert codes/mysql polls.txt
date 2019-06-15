@@ -1,0 +1,2 @@
+INSERT INTO polls (`id`, `subject`, `created`, `modified`, `status`) VALUES
+(1, 'Who is your favourite author?', '2019-06-14 04:13:13', '2019-06-14 04:13:13', '1');
